@@ -1,4 +1,4 @@
-package com.example.mini_event_album
+package com.minievent.album
 
 import io.flutter.embedding.android.FlutterActivity
 
